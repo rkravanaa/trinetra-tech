@@ -78,6 +78,9 @@ The platform enables supervisors and safety officers to monitor workforce safety
 * Hazard Monitoring Interface
 * Incident Alert Center
 
+## High-Level System Architecture
+
+![Architecture](architecture/system-architecture.png)
 ---
 
 ## Dashboard Preview
@@ -129,6 +132,9 @@ Worker Image
 9. Dashboard visualizes live site conditions
 10. Alert engine escalates emergencies instantly
 
+## System Workflow
+
+![Workflow](architecture/workflow-diagram.png)
 ---
 ## Technology Stack
 

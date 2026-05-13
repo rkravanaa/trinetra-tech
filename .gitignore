@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+firebase-secret.json
+
+# AI models
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

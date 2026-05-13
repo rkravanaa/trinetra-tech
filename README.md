@@ -1,7 +1,12 @@
 # TRINETRA TECH
+![Platform](https://img.shields.io/badge/Platform-AIoT-blue)
+![Backend](https://img.shields.io/badge/Backend-Flask-green)
+![Cloud](https://img.shields.io/badge/Cloud-Firebase-orange)
+![AI](https://img.shields.io/badge/AI-OpenCLIP-purple)
+![Hardware](https://img.shields.io/badge/Hardware-ESP32-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-### AI-Powered Occupational Health & Safety Platform for Industrial Workers
-
+### Realtime AIoT Infrastructure for Industrial Workforce Safety, PPE Compliance, and Hazard Intelligence
 ---
 
 ## Overview
@@ -36,6 +41,18 @@ The platform enables supervisors and safety officers to monitor workforce safety
 * Google Sheets attendance logging
 * Multi-node ESP32 architecture
 * Realtime alert center
+---
+## Key Capabilities
+
+* Realtime industrial worker monitoring
+* AI-powered PPE compliance verification
+* Environmental hazard intelligence
+* Wearable biometric telemetry
+* Realtime emergency escalation
+* Distributed ESP32 node infrastructure
+* Cloud-synchronized safety analytics
+* Smart workforce access control
+* Realtime operational dashboarding
 
 ---
 

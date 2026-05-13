@@ -1,0 +1,5 @@
+flask
+torch
+open_clip_torch
+pillow
+requests
